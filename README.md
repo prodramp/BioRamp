@@ -8,3 +8,4 @@ Resources:
 - http://data-science-sequencing.github.io/
 - https://gatk.broadinstitute.org/hc/en-us
 - https://www.nfx.com/post/biotech-to-techbio
+- https://www.startus-insights.com/innovators-guide/mrna-vaccine-tech-translates-into-promising-covid-19-vaccines/
